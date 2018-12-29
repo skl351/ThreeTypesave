@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThreeTypeSave</string>
+    <string name="SharedPreferences">SharedPreferences</string>
+    <string name="DBFlow">DBFlow</string>
+    <string name="storage">外存储</string>
+    <string name="memory">内存储</string>
+    <string name="share_needname">请填写需要保存的数据name</string>
+    <string name="share_needvalue">请填写需要保存的数据value</string>
+    <string name="click_save">保存</string>
+    <string name="click_delete">删除</string>
+    <string name="click_show">显示</string>
+    <string name="share_showtext">此处显示以保存的所有数据 name,value</string>
+    <string name="db_showtext">此处显示以保存的所有数据 文件名</string>
+    <string name="input_indata">输入内存数据</string>
+    <string name="input_outdata">输入外存数据</string>
+</resources>
